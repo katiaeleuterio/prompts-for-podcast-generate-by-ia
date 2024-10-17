@@ -4,7 +4,7 @@ ChatGPT：
 
 |  Ação  | prompt                                                                                                                                     |
 | :----: | ------------------------------------------------------------------------------------------------------------------------------------------ |
-| título | ocê é um roteirista de podcast, e vamos criar um podcast de tecnologia, focado em c# e eu gostaria de uma ajuda sua para criar 5 sugestões |
+| título | você é um roteirista de podcast, e vamos criar um podcast de tecnologia, focado em c# e eu gostaria de uma ajuda sua para criar 5 sugestões |
 
 de nomes criativos para um podcast de c# feito por nerds, e que tenha algum trocadilho nerd no nome
 
