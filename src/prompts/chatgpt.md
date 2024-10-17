@@ -24,7 +24,6 @@ Título e subtítulo escolhidos:
 "Try Catch da Semana"
 Subtítulo: As melhores novidades do mundo C# |
 
-                                                 |
 
 | episodio | Você é um roteirista de podcast, e vamos criar um roteiro de um podcast de tecnologia, focado em c# cujo o
 nome é "Try Catch da Semana - As melhores novidades do mundo C#" e tem foco em c#,  
