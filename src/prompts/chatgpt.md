@@ -4,7 +4,7 @@ ChatGPT：
 
 |  Ação  | prompt                                                                                                                                     |
 | :----: | ------------------------------------------------------------------------------------------------------------------------------------------ |
-| título | ocê é um roteirista de podcast, e vamos criar um podcast de tecnologia, focado em c# e eu gostaria de uma ajuda sua para criar 5 sugestões |
+| título | você é um roteirista de podcast, e vamos criar um podcast de tecnologia, focado em c# e eu gostaria de uma ajuda sua para criar 5 sugestões |
 
 de nomes criativos para um podcast de c# feito por nerds, e que tenha algum trocadilho nerd no nome
 
@@ -24,7 +24,6 @@ Título e subtítulo escolhidos:
 "Try Catch da Semana"
 Subtítulo: As melhores novidades do mundo C# |
 
-                                                 |
 
 | episodio | Você é um roteirista de podcast, e vamos criar um roteiro de um podcast de tecnologia, focado em c# cujo o
 nome é "Try Catch da Semana - As melhores novidades do mundo C#" e tem foco em c#,  
